@@ -1,0 +1,29 @@
+                        -----------------------Task Tracker------------------
+						
+						
+	Tools used:
+		Angular: To develop a front-end application that includes a signup page, a sign-in page, and a landing page
+
+		Progressive web app: To render offline
+
+		Http-Server: To host application on live server
+
+		Git: To connect and push files from the local system to GitHub
+
+		GitHub: To store the Angular application
+		
+		
+	As per the requirements,
+		I have developed an Task Tracker.
+		In this I have used 3 components namely,
+			1)Header
+			2)Sign-in
+			3)Sign-Up
+		When we start the local server by default sign-in page will open.In that I have made validation for the input form.
+		If the user register he has to sign-in using the credentials(email-id and password),if the user gives the wrong credentials it'll show the pop-up message as wrong credentials on the top of the sign-in card.
+		If the user has not registered he has to sign-up using sign-up button
+		In sign-up page I have made validation for all the input page.
+		Once the user registers ,it'll show a pop-up message as "Registered successfully".
+		After that it will take the sign-in page,and user has to login using his credentials.
+		Once the user sign-in,it'll shows the all the details of the user with the message "You are signed in successfully". 
+		Throush the angular app i can run this at any time.		
